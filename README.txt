@@ -1,1 +1,1 @@
-This Repo consists of all the related research papers I used during my study of AI/ML. This repo is dearly connected to the repo of my study ()
+This Repo consists of all the related research papers I used during my study of AI/ML. This repo is dearly connected to the repo of my study (https://github.com/Dhruva-123/MLnotes)
